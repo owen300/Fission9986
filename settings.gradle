@@ -1,2 +1,2 @@
-rootProject.name = "fissionlib"
-include ':FissionLib'
+rootProject.name = "fission9986"
+include ':Fission9986'
